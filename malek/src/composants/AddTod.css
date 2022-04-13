@@ -1,0 +1,8 @@
+InputGroup {
+	border: 3px solid lightblue;
+    width: 50%;
+    border-bottom: 3px solid lightblue;
+    padding: 10px 15px;
+	box-sizing: border-box;
+    background-color: lightblue;
+}
